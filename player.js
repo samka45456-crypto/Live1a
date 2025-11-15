@@ -1,7 +1,7 @@
 // player.js (FINAL version to work with proxy)
 
 // 1. **CHANGE THIS** to your proxy's URL
-const MANIFEST_URL = 'http://localhost:3000/stream'; 
+const MANIFEST_URL = 'https://jiotvpllive.cdn.jio.com'; 
 
 // ... Keep ClearKey config ...
 
